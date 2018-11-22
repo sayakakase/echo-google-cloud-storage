@@ -13,6 +13,7 @@ $ mkdir $GOPATH/src/github.com/y-ogura
 $ cd $GOPATH/src/github.com/y-ogura
 $ git clone https://github.com/y-ogura/echo-google-cloud-storage.git
 $ cd echo-google-cloud-storage
+$ cp .envrc.example .envrc // after edit .envrc
 $ go build
 $ ./echo-google-cloud-storage
 ```
