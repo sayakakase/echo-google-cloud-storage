@@ -4,7 +4,7 @@
 This is upload file on google cloud storage.
 For details how to use the [google cloud storage](https://cloud.google.com/storage/) click [here](https://cloud.google.com/docs/authentication/production)
 
-## version
+## golang version
 golang 1.11.1
 
 ## Installation
