@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nuts-shop-1529912980104",
+  "private_key_id": "5b4503acce0cbf904cb3fcd1f8fecf64e96ba77b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU5SAawUDvXJ1A\no9mvp5Z3z2qQZz2cpkWDh7lIHEfF5d+onK/4YVqSWaQ2x9WoiB17rDHeUeYMgrqY\nzn94V0oz8emn7gFT4V9cW7GaA3H+WQ7FdpbP+/pb1wlvONwv1ZJK4f6gyGiHx5Iq\nFXPlGFLmbhT2ONdYnQtmfxdun+ZB8FeVCLutaH9gbnhO3VO4MAoCTyaKqtLA3ckE\nDt/g3YOo5OF1aazRCp9e4dMjYK6MA9jqkK/tFqRRGnDfaPZarv/uveNGKBk8fgbe\nDIxL8p5W9bT2ZRNu40RF3p9FEJyK8qEz/sD1k5Tt/DIr6eUfqJgQp00veOHs0ZFe\nWu1vITH7AgMBAAECggEADEOLD2kXhh+kvCxCw9sT465r4pT+WCbB1wGY2z2pE73J\nXEP7ooOySBemFPUEvirn8sXOHbe1MRabc/aePTVDYV/tlO1fop8PkbXjvQHHo+GF\n+/G2nk7s4h+mIUkXqcD3mb9fj7KyGWzwtxKpRxdnzJ8IjvdDlYLp63lQXsZA2vFm\nu2xsjJdeG6zDesWK9ayTL1JkXaEWSY7K6kMWg34Nh+lhmS2X2BPK+DPCNh4E1v/e\nZq0evL0qkekIf/a7rXIttxZBrp+D2NWeRkxvvv9BcJ1yfhpwHVH43d061ne7Li93\nL7oR6ylRvJyTCWZ+fbHA82oJUMD5qKK+5Ih+TsxdcQKBgQDFTSGlrKZOrrJcCwVp\nCl0Qh7nXF0c4lzxQgj/jGO5juIOP4jermRiO5l1iNoGa3yWCvMBIzNAhID51T7VH\nwca081GBjxyCc61mEsfjt6I3TIIfVsY30G19jpyjhNHQDEA8otQPRSmvRth5d29j\nFyrL2cBOzZ1iuIq+S+X933GYPQKBgQDBMUYIM5ohX748ucnL/Bju3Ex6/GDbAmgQ\naBqkEZsKB8PLz15Yl0l3YhklbjxdIru+rYE7H1TeGdRgDhQRCwTJpEHygljGSaWD\nfUSPwWpGm7g0C1NxHSzsMHittCwhS3J+Z5AbAk4ohn8UJDvpgWnZP5Tp87kL+t+O\nJn/Nu8JelwKBgDEYhGrpj2i85/0ncO02evoGDCSN0lcuqv+NqcAlEA0YeQRw0lGN\nAyNsB4jM72tOY9MojOCQtqnHkEM41m9ItN2KPpnytrFvf5KK0drEc0U3cJnDygdR\ngi1gM3ItNtiCc+miywoRt9G521w+cCVEOo4HXWc+mw9ZxIyd7llCJM4xAoGAfkJE\nobGPxsX631cQokbEyL6jITF130xIVIik+Jsk9z4x4S5KW52r/uDWzFaqDrhXePuN\n3OTSI0FAQfKRfL31yA6YpvQ3LogNKs0glM70NOcqUKEiTGej50yaYfPBb5UOY7wt\nOumbyPJ1dOVlXmsckUXzfZ6yTjkMB6vzlLJkCksCgYEAl9OUpMSVPhE06zEG9Cyc\n+WRtLCdsK9Y/BTIxwHfOKtOudRJwGt1NlujkeWvCOXP3poKeSxwOYSDxkqnKmXTX\nOFHc3UQ7DC+fv7SyTAlSW/3MdyNrtOyVT/L7cax2EwgWBnwSsb6Op6xlMi/fDaNb\nWamWmAh3DA/6ytW+a4gR4Bg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuts-shop@nuts-shop-1529912980104.iam.gserviceaccount.com",
+  "client_id": "110463272070389744710",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuts-shop%40nuts-shop-1529912980104.iam.gserviceaccount.com"
+}
