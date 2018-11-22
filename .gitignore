@@ -1,4 +1,4 @@
 echo-google-cloud-storage
 .envrc
-./src/key-dev.json
-./vendor
+src/key-dev.json
+vendor
