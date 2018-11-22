@@ -1,0 +1,6 @@
+export GO111MODULE=on
+export PORT=8080
+
+# google cloud storage
+export GCLOUD_STORAGE_BUCKET=your-google-cloud-bucket
+export GCLOUD_ACCOUNT_KEY=your-googole-service-account-key-filename
